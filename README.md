@@ -1,3 +1,19 @@
+# COVERAGE ALGORITHM FOR ROBOTIC VACUUM CLEANERS
+
+# Addisu Desta and Lucien Meteumba
+
+Mississippi State University
+
+© COPYRIGHT 2023
+
+Mid Term Project
+
+submitted for the course, Artificial Intelligence (CSE 4633-6633)
+
+Graduate Department of Computer Science 
+
+Mississippi State University
+
 # COVERAGE-ALGORITHM-FOR-ROBOTIC-VACUUM-CLEANERS
 COVERAGE ALGORITHM FOR ROBOTIC VACUUM CLEANERS
 The essence of autonomous mobile robots lies in their ability to navigate through cluttered environments, exhibiting seamless and efficient motion control. In the realm of robotic vacuum cleaners, this aspect is of paramount importance, influencing their performance and usability. This thesis, titled "Coverage Algorithms for Robotic Vacuum Cleaners," actions to shed light on the critical focus required in navigating these automated cleaning devices. Our objective is to thoroughly explore and analyze Coverage Algorithms that empower robotic vacuum cleaners to efficiently maneuver within indoor spaces, taking into account various environmental constraints.
